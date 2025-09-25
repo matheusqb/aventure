@@ -16,3 +16,7 @@ avanca.array.forEach(button=>{
      }
     });
 });
+
+
+//reiniciar o jogo ao clicar no botao de reinicio
+if
